@@ -10,5 +10,5 @@
         <mapping class="com.example.qiuguomeng.coolweather.db.City"/>
         <mapping class="com.example.qiuguomeng.coolweather.db.County"/>
     </list>
-    
+
 </litepal>
